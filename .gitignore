@@ -46,7 +46,7 @@ npm-debug.log
 yarn-error.log
 
 # Bob
-dist/
+# dist/
 
 # mock
 mock/*.d.ts
